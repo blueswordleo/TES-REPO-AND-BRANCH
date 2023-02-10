@@ -1,0 +1,13 @@
+TES memasukan file ke GIT dan melakukan branch
+-----------------------------------------------
+
+push 1 file ke developer lalu merge ke product
+
+
+-----------------------------------------------
+push file to github
+1. git init
+meng inisialisasi GIT pada project
+2. git add nama_file
+langsung dimasukan kedalam master
+3. 
